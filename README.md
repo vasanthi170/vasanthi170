@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vasanthi
+- 👋 Hi, I’m Vasanthi 
 - 👀 I’m interested in Python Programming,SQL.
 - 🌱 I’m currently learning Python Programming,HTML,CSS,Javascript and enhancing my problem-solving skills through the #100DaysOfCode challenge.
 - 💞️ I’m looking to collaborate on open-source projects related to Python, data structures
